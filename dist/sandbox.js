@@ -18,7 +18,6 @@ class Model {
 			{ id: 1, text: 'Buy groceries', complete: false },
 			{ id: 2, text: 'Code four hours today', complete: false },
 			{ id: 3, text: 'Play tennis with Marian', complete: false },
-			{ id: 4, text: 'Cook dinner: Massamam Curry', complete: false },
 		];
 	}
 
